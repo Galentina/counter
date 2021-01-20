@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+
+.input {
+  width: 120px;
+  height: 22px;
+  font-size: 14px;
+  box-shadow: inset 2px 2px 2px #a7a7a7;
+  border: 1px solid #2a61a5;
+  border-radius: 5px;
+}
+
+.inputC {
+  width: 200px;
+  height: 25px;
+  font-size: 14px;
+  box-shadow: inset 2px 2px 2px #a7a7a7;
+  border: 1px solid #2a61a5;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: #2a61a5;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #2a61a5;
+  box-shadow: 1px 1px 1px #606060;
+  outline: none;
+  font-size:14px;
+}
+
+.butArrow {
+  background: #c5f8e7;
+}
+
+.butArrow2 {
+  background: #6ffacb;
+}
+
+.butAdd {
+  width: 100px;
+  background: #d9f5fd;
+  color: #2a61a5;
+}
+
+.butDelB {
+  width: 110px;
+  background: #d9f5fd;
+  color: brown;
+}
+
+.butDel {
+  width: 100px;
+  background: #e3d9fd;
+}
+
+div{
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.next {
+  display: inline;
+}
